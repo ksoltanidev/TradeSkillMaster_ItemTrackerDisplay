@@ -1,7 +1,7 @@
 ## Interface: 30300
-## Title: |cff00ff00TSM|r - ItemTrackerDisplay
+## Title: |cff00ff00TradeSkillMaster_ItemTrackerDisplay|r
 ## Notes: A small window to display tracked item stocks.
-## Author: Sapu94 & Contributors
+## Author: Gemlatune
 ## Version: 1.0
 ## Dependencies: TradeSkillMaster, TradeSkillMaster_ItemTracker
 ## SavedVariables: AscensionTSM_ItemTrackerDisplayDB
